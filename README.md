@@ -37,3 +37,8 @@ Once running, open:
 * Do not use `pip install` directly
 * Use `uv add` to install new dependencies
 * Always commit `uv.lock` after adding dependencies
+
+
+
+# Next Steps:
+Deploy this FastApi in a AWS Lambda and API Gateway, following this guide: https://youtu.be/U_d56hG7yEM?si=GU_aqRk_-BbxbMzd&t=494
